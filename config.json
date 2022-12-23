@@ -1,0 +1,32 @@
+ {
+    "bot": {
+        "prefix": "!",
+        "id": "1054367819367723038",
+        "secret": "ABbsdl0w16_TiovkwQ1EeODDTCIqfvwu",
+        "token": "MTA1NDM2NzgxOTM2NzcyMzAzOA.GfkLpC.RNNpDa-DWw9si6MQIM82zFOaP5Ux0dECTm2NuQ"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://XXX.XXX.repl.co",
+        "callback": "https://XXX.XXX.repl.co/callback",
+        "discord_server_ID": "MTA1NDM2NzgxOTM2NzcyMzAzOA.GfkLpC.RNNpDa-DWw9si6MQIM82zFOaP5Ux0dECTm2NuQ",
+        "ownerids": ["1054369750790189096"],
+        "ownershow": true,
+        "owners": [
+            {
+                "id": "1054369750790189096",
+                "desc": "Moon"
+            },
+            {
+                "id": "1054369750790189096",
+                "desc": "Moon"
+            }
+        ],
+        "arc": {
+            "enabled": false,
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://holo:moon0987654@cluster0.ts4jpsk.mongodb.net/?retryWrites=true&w=majority",
+    "discord": "XXX"
+ }
